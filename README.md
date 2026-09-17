@@ -1,4 +1,4 @@
-# Onyx USB C Option Card (Unofficial FireWire Slot USB-C Retrofit Upgrade)  
+# Onyx USB C Option Card (Unofficial Retrofit Upgrade)  
 
 What is?
 A drop-in USB-C Audio Class 2 replacement card for legacy Mackie Onyx 1220, 1620, and 1640 FireWire expansion slots.
